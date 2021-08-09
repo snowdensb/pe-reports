@@ -1,5 +1,8 @@
 {
 "settingsInheritedFrom": "snowdensb/whitesource-config@main",
+"scanSettings": {
+  "productToken": "a19ceb3ebdf04cfdb4dfaaa35690c05c170106a0225f4305bcd6f8880ecad582"
+},
 "remediateSettings": {
     "enableRenovate": false,
     "extends": ["github>whitesource/merge-confidence:beta"]
